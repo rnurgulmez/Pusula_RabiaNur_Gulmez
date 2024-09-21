@@ -9,8 +9,6 @@ This project analyzes drug side effects reported by patients. It covers data pre
 3. [Pipeline Overview](#pipeline-overview)
 4. [Streamlit Dashboard](#streamlit-dashboard)
 5. [How to Run](#how-to-run)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## 🔧 Installation
 To set up this project locally, follow these steps:
